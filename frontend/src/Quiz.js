@@ -202,7 +202,7 @@ const questions = [
 
     
     
-    <div className="app">
+    <div className="app2">
       {showScore ? ( 
       <>
         <div className="quizbox">
